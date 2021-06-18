@@ -1,3 +1,3 @@
 # Hello-World
 Just a start.
- Start of my C++ journey.
+ Reckoning of my C++ journey.
